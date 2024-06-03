@@ -6,6 +6,9 @@
 - 🔭 I’m currently working in **Ericson Global India**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
+
+
+
   
 - 🔬 Expertise:
   
